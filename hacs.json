@@ -1,0 +1,7 @@
+{
+  "name": "Weather Overlay",
+  "content_in_root": true,
+  "render_readme": true,
+  "domain": "weather-overlay",
+  "homeassistant": "2023.1.0"
+}
